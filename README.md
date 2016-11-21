@@ -1,2 +1,2 @@
 # Misc-Courses
-This repository contains various class project that have been completed.
+This repository contains various class project that have been completed, for posterity.
